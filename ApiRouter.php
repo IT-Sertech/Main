@@ -20,6 +20,7 @@ class ApiRouter extends \Core\Module\ApiRouter {
      * @var string
      */
     public string $routerType = "page";
+    
 
     /**
      * @var array|array[]
